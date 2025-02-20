@@ -102,3 +102,5 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+
+This repository is inspired by work done by @shubamsaboo
